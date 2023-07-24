@@ -1,0 +1,13 @@
+[{
+    "name": "rachid",
+    "email": "rachid@example.com",
+    "birth": 1999,
+    "gender": "male",
+    "id": "46e5ea7d-15c1-47de-a001-7917df202c77"
+}, {
+    "name": "yaashall",
+    "email": "yaashall@example.com",
+    "birth": 1998,
+    "gender": "male",
+    "id": "10cecf3f-8057-4646-9eab-b2c9c99a6ee8"
+}]
